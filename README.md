@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mdimran3772@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VFu4BYsSLM2sR0fbV37yqUfwjf9iRdUo/view?usp=sharing](https://drive.google.com/file/d/1VFu4BYsSLM2sR0fbV37yqUfwjf9iRdUo/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/dCJUZ](shorturl.at/dCJUZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
