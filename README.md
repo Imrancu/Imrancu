@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Imran</h1>
 <h3 align="center">Passionate MERN-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://imrancu-portfolio.netlify.app/](https://imrancu-portfolio.netlify.app/)
 
